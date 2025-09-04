@@ -19,13 +19,13 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.subheader("Un grupo de amigos")
+st.write('Había una vez, en la ciudad de Bogotá, un equipo que vestía de azul brillante como el cielo. Ese equipo se llamó Millonarios.'  
+         'Al principio eran solo unos jóvenes que jugaban por diversión, pero poco a poco fueron creciendo hasta convertirse en un club muy fuerte.' 
+         'Un día llegaron jugadores mágicos de Argentina, que hacían que la pelota bailara como si tuviera vida propia.'  
+         ' A esa época la gente la llamó “El Ballet Azul”, porque el equipo jugaba como si hiciera una danza hermosa.' 
+         'Con el tiempo, Millonarios ganó muchas estrellas en su camiseta y se volvió uno de los equipos más queridos de Colombia.  '
+         'Y así, el cuento de Millonarios sigue escribiéndose, cada partido, cada gol y cada abrazo en la tribuna.'
         
         )
            
